@@ -48,7 +48,7 @@ button {
 .corner {
   position: absolute;
   inset: 0;
-  background-image: url("/public/corner.svg");
+  background-image: url("./public/corner.svg");
   background-repeat: no-repeat;
   background-size: cover;
 }
